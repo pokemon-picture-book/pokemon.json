@@ -1,0 +1,67 @@
+[
+    {
+        "regionGroupId": 1,
+        "name": "カントー地方",
+        "languageId": 1
+    },
+    {
+        "regionGroupId": 1,
+        "name": "Kanto",
+        "languageId": 2
+    },
+    {
+        "regionGroupId": 2,
+        "name": "ジョウト地方",
+        "languageId": 1
+    },
+    {
+        "regionGroupId": 2,
+        "name": "Johto",
+        "languageId": 2
+    },
+    {
+        "regionGroupId": 3,
+        "name": "ホウエン地方",
+        "languageId": 1
+    },
+    {
+        "regionGroupId": 3,
+        "name": "Hoenn",
+        "languageId": 2
+    },
+    {
+        "regionGroupId": 4,
+        "name": "シンオウ地方",
+        "languageId": 1
+    },
+    {
+        "regionGroupId": 4,
+        "name": "Sinnoh",
+        "languageId": 2
+    },
+    {
+        "regionGroupId": 5,
+        "name": "イッシュ地方",
+        "languageId": 1
+    },
+    {
+        "regionGroupId": 5,
+        "name": "Unova",
+        "languageId": 2
+    },
+    {
+        "regionGroupId": 6,
+        "name": "カロス地方",
+        "languageId": 1
+    },
+    {
+        "regionGroupId": 6,
+        "name": "Kalos",
+        "languageId": 2
+    },
+    {
+        "regionGroupId": 7,
+        "name": "Alola",
+        "languageId": 2
+    }
+]
